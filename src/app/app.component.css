@@ -1,7 +1,21 @@
 /* AppComponent's private CSS styles */
+body {
+  max-width: 1000px;
+  margin: auto;
+}
+
 h1 {
   margin-bottom: 0;
+  text-align: center;
 }
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
 nav a {
   padding: 1rem;
   text-decoration: none;

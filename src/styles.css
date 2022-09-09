@@ -12,6 +12,8 @@ h3 {
 }
 body {
   margin: 2em;
+  max-width: 1000px;
+  margin: auto;
 }
 body,
 input[type="text"],
